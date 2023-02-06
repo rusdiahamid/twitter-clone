@@ -54,8 +54,8 @@ const whoToFollowItems = ref([
     Image: 'https://picsum.photos/200/200',
   },
   {
-    name: 'Barack Obama',
-    handle: '@BarackObama',
+    name: 'Vladimir Putin',
+    handle: '@Putin',
     Image: 'https://picsum.photos/200/201',
   },
   {
